@@ -72,7 +72,7 @@
 
 >## Footer ##
 
->> - Nevia Logo
+>> -Nevia Logo
 
 >> -Contact Details
 
