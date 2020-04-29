@@ -5,7 +5,7 @@
 
 >> -Link css file, font-awesome, Material-icons, and Owl Carousel files 
 
->> -close the head tag and open the body tag
+>> -Close the head tag and open the body tag
 >## Body ##
 
 >## Header ##
@@ -18,27 +18,85 @@
 
 >> -Contact number
 
->> -search field
+>> -Search field
 
->> -search button
+>> -Search button
 
 >## Top Navigation ##
->> -Home, Trending, and Subscriptions Buttons
+>> -Home
 
->> -Library - History Buttons
+>> -Features
 
->> -SignIn Button
+>> -Shortcodes
 
->> -Best of YouTube Buttons: Music, Sports, Gaming, News, Live,and 360 Videos
+>> -Portfolio
 
->> -Browse Channels Button
+>> -Shop
 
->> -More from YouTube: Live Button
+>> -Blog
 
->> -Settings, Report History, Help, Send Feedback Buttons
+>> -Contact
 
->> -About, Press, Copyright, Contact us, Creators, Advertise, and Developers Buttons
+>## Body Image ##
 
->> -Terms, Privacy, Policy, and Safety Buttons
+>> -Background
+
+>> -Man image overlays the background
+
+>> -Button
+
+>## Web Features ##
+
+>> -Clean Design
+
+>> -Responsive
+
+>> -Retina Ready
+
+>## Recent Work ##
+
+>> -Pictures with Caption and Description to the previous works
+
+>> -Used Owl-Carousel to make the image slider
+
+>## Recent News & Testimonials ##
+
+>> -Date Div with month and day 
+
+>> -What our clients said
+
+>> -Project Manager,Supervisor, and General Manager of the website slides by using Owl-Carousel
+
+>> -Close body tag and open footer tag 
+
+
+>## Footer ##
+
+>> - Nevia Logo
+
+>> -Contact Details
+
+>> -Photo Stream, importing the photos from staticflickr website
+
+>> -Twitter
+
+>> -Copyright
+
+>> -FAQ's,Sitemap, and Contact
+
+>> -Close footer tag
+
+>## JavaScript Code ##
+
+>> -Importing Owl-Carousel jquery files by using script tag
+
+>> -Open script tag then Calling Owl initializer function to be ready to use
+
+>> -Close script tag and html tag
+
+
+
+
+
 
 
