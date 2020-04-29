@@ -42,10 +42,9 @@ h2{
     margin-top: -28px;
 }
 .fa {
-    font-size: 50px;
+    font-size: 15px;
     float:right;
     text-decoration:none;
-
 }
 .fa:hover{
       opacity: 0.7;
@@ -113,7 +112,6 @@ h6{
     overflow: hidden;
     background-color: #4C4C4C;
     margin-top: 80px;
-    padding-bottom: 20px;
     width: 1020px;
     margin-left: -20px;
 }
@@ -123,7 +121,7 @@ h6{
     vertical-align: -100%;
     text-decoration: none;
     font-size: 15px;
-    padding: 25px 20px;
+    padding: 15px 20px;
     color: white;
     font-family: 'Segoe UI';
 }
@@ -135,6 +133,7 @@ h6{
 }
 .Home{
     border-right:  1px solid #DCDCDC; 
+    float: left;
 }
 .Home i{
     vertical-align:-18%;
@@ -142,7 +141,7 @@ h6{
 }
 .dropdown {
     position: block;
-    display: inline-block;
+    float: left;
   }
   .dropdown-contentFeatures {
     display: none;
@@ -151,7 +150,7 @@ h6{
     min-width: 400px;
     padding: 20px;
     z-index:1;
-    margin-top: 20px;
+    margin-top: 47px;
     border-left:    1px solid #DCDCDC;
     border-right:  1px solid #DCDCDC; 
     border-bottom: 1px solid #DCDCDC;
@@ -204,19 +203,19 @@ h6{
     position: absolute;
     background-color: white;
     min-width: 100px;
-    padding: 20px;
     z-index:1;
-    margin-top: 20px;
-    border-left:    1px solid #DCDCDC;
+    margin-top: 47px;
+    border-left:   1px solid #DCDCDC;
     border-right:  1px solid #DCDCDC; 
     border-bottom: 1px solid #DCDCDC;
   }
   .dropdown-contentShortcodes a {
     color: #909090;
-    padding: 3px;
+    padding: 15px;
     text-decoration: none;
     display: block;
     font-size: 14px;
+    border-bottom: 1px solid #DCDCDC;
   }
   .dropdown-contentShortcodes hr{
     width: 140%; 
@@ -230,19 +229,19 @@ h6{
     position: absolute;
     background-color: white;
     min-width: 100px;
-    padding: 20px;
     z-index:1;
-    margin-top: 20px;
+    margin-top: 47px;
     border-left:    1px solid #DCDCDC;
     border-right:  1px solid #DCDCDC; 
     border-bottom: 1px solid #DCDCDC;
   }
   .dropdown-contentPortfolio a {
     color: #909090;
-    padding: 3px;
+    padding: 15px;
     text-decoration: none;
     display: block;
     font-size: 14px;
+    border-bottom: 1px solid #DCDCDC;
   }
   .dropdown-contentPortfolio hr{
     width: 140%; 
@@ -256,19 +255,19 @@ h6{
     position: absolute;
     background-color: white;
     min-width: 100px;
-    padding: 20px;
     z-index:1;
-    margin-top: 20px;
+    margin-top: 47px;
     border-left:    1px solid #DCDCDC;
     border-right:  1px solid #DCDCDC; 
     border-bottom: 1px solid #DCDCDC;
   }
   .dropdown-contentShop a {
     color: #909090;
-    padding: 3px;
+    padding: 15px;
     text-decoration: none;
     display: block;
     font-size: 14px;
+    border-bottom: 1px solid #DCDCDC;
   }
   .dropdown-contentShop hr{
     width: 140%; 
@@ -282,20 +281,21 @@ h6{
     position: absolute;
     background-color: white;
     min-width: 100px;
-    padding: 20px;
     z-index:1;
-    margin-top: 20px;
+    margin-top: 47px;
     border-left:    1px solid #DCDCDC;
     border-right:  1px solid #DCDCDC; 
     border-bottom: 1px solid #DCDCDC;
   }
   .dropdown-contentBlog a {
     color: #909090;
-    padding: 3px;
+    padding: 15px;
     text-decoration: none;
     display: block;
     font-size: 14px;
     text-align: left;
+    border-bottom: 1px solid #DCDCDC;
+
   }
   .dropdown-contentBlog hr{
     width: 140%; 
@@ -353,12 +353,11 @@ p4{
 }
 i.fa-magic{
     display: inline-block;
-    float: left;
     font-size: 20px;
   	color: #404040;
     padding-left: 50px;
     margin-top: -18px;
-
+    margin-right: 455px;
 }
 p5{
     display: block;
@@ -407,76 +406,73 @@ h5{
 h3.middle{
   width: 1060px; margin-left: -20px;
 }
-.work{
-  padding-bottom: 50px;
+.workk{
+float: left;
 }
-.portfolio1{
-  display: block;
-  height:150px;
-  width:220px;
-  margin-left: 240px;
-  margin-top: -95px;
-  border-bottom: 5px solid #DCDCDC;
+.recent-work{
+  float: right;
+  width: 70%;
+  margin-top: 20px;
 }
-.firstWork h4{
+h5.owlH5{
   font-family: 'Segoe UI';
   font-weight: 600;
-  width: 200px;
-  margin-left: 280px;  
-  margin-top: 10px; 
+  color: black;
+  font-size: 15px;
+  margin-left: 20%;
 }
-.firstWork a{
-  display: block;
+p.owlP{
   font-family: 'Segoe UI';
-  margin-left: 310px;
-  margin-top: -20px;    
+  color: #666666;
   font-size: 14px;
-  color: #A0A0A0;
+  margin-left: 30%;
+  padding-top:15px ;
 }
-.portfolio2{
-  display: block;
-  height:150px;
-  width:220px;
-  margin-left: 480px;
-  margin-top: -205px;
+.owl-prev {
+  left:-300px;
+}
+.owl-next {
+  right: 935px;
+}
+.owl-prev, .owl-next {
+  position: absolute; 
+  top: 35%;
+  background-color: 5px gray;
+}
+
+.owl-prev span, .owl-next span {
+  font-size: 20px;
+  font-weight: bolder;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  cursor: pointer;
+  border: 1px solid #DCDCDC;
+  background-color: #CCCCCC;
+}
+.owl-next span:hover,
+.owl-prev span:hover{
+  border-color: #DCDCDC;
+  background-color: #169FE6;
+}
+.owl-theme .owl-nav [class*="owl-"]:hover {
+  background-color: transparent;
+}
+.item{
+  padding: 5px;
+}
+.portfolio{
   border-bottom: 5px solid #DCDCDC;
+  cursor: pointer;
 }
-.secondWork h4{
-  font-family: 'Segoe UI';
-  font-weight: 600;
-  margin-left: 530px;
-  margin-top: 10px;  
+.portfolio:hover{
+  filter: brightness(110%);
+  border-bottom: 5px solid #169FE6;
+
 }
-.secondWork a{
-  display: block;
-  font-family: 'Segoe UI';
-  margin-left: 555px;  
-  margin-top: -20px; 
-  font-size: 14px;
-  color: #A0A0A0;
-}
-.portfolio3{
-  display: block;
-  height:150px;
-  width:220px;
-  margin-left: 720px;
-  margin-top: -205px;
-  border-bottom: 5px solid #DCDCDC;
-}
-.thirdWork h4{
-  font-family: 'Segoe UI';
-  font-weight: 600;
-  margin-left: 770px;
-  margin-top: 10px;  
-}
-.thirdWork a{
-  display: block;
-  font-family: 'Segoe UI';
-  margin-left: 810px;  
-  margin-top: -20px; 
-  font-size: 14px;
-  color: #A0A0A0;
-}
+
 h3.h3new{
   font-family: 'Segoe UI';
   font-weight: normal;
