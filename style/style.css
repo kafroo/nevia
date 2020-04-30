@@ -201,7 +201,7 @@ p2 {
   font-family: 'Segoe UI';
 }
 
-p3 {
+.p3 {
   color: gray;
   font-size: 13px;
   font-family: 'Segoe UI';
@@ -350,6 +350,8 @@ p3 {
   border-left: 1px solid #DCDCDC;
   border-right: 1px solid #DCDCDC;
   border-bottom: 1px solid #DCDCDC;
+  border: 1px solid #DCDCDC;
+  border-top: none;
 }
 
 .dropdown-contentBlog a {
