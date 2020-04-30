@@ -878,6 +878,7 @@ a.new15:hover{
         font-size: 12px;
         padding: 8px 8px;
     }
+   
     .Home{
         border-right:  1px solid #DCDCDC; 
 
@@ -887,7 +888,7 @@ a.new15:hover{
         font-size: 15px;
     }
     .topNav a.active{
-        padding-top: 20px;
+        padding: -5px;
     }
     .BG{
         margin-left: -20px;
@@ -922,29 +923,71 @@ a.new15:hover{
       margin-top: -18px;
   }
   p5{
-      margin-left: 50px;
-      margin-top: -10px;
+      margin-left: 245px;
+      margin-top: -80px;
       width: 170px;
   }
   i.fa-flask{
       font-size: 18px;
       padding-left: 10px;
-      margin-top: -38px;
+      margin-top: -100px;
       margin-right: 60px;
   }
   p6{
+    margin-top: -80px;
       padding-right: 15px;
       width: 180px;
   }
   h5{
     width: 150px;
   }
-  .portfolio1{
-    height:120px;
-    width:150px;
-    margin-left: 160px;
-    margin-top: -115px;
-  }
+  i.fa-magic{
+    float: center;
+    font-size: 20px;
+  	color: #404040;
+    padding-left: 50px;
+    margin-top: -105px;
+    margin-right: 300px;
+}
+.workk{
+    float: left;
+    margin-left: 5px;
+    }
+.recent-work{
+  float: right;
+  width: 70%;
+  margin-top: 20px;
+}
+h5.owlH5{
+  font-size: 12px;
+  margin-left: 13%;
+}
+p.owlP{
+  font-size: 11px;
+  margin-left: 28%;
+  padding-top:20px ;
+}
+.owl-prev {
+  left:-200px;
+}
+.owl-next {
+  right: 600px;
+}
+.owl-prev, .owl-next {
+  top: 60%;
+}
+.owl-prev span, .owl-next span {
+  font-size: 20px;
+  font-weight: bolder;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  cursor: pointer;
+  border: 1px solid #DCDCDC;
+  background-color: #CCCCCC;
+} 
   .firstWork h4{
     width: 200px;
     margin-left: 160px;  
